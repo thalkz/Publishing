@@ -2,13 +2,15 @@
 
 ### Auteur
 
-Roland LAMIDIEU, Ecole Centrale de Lyon
+Roland LAMIDSIEU, Ecole Centrale de Lyon
 
 ### Abstract
 
-La publication scientifique est au coeur de la recherche. C'est le mécanisme qui permet le partage de la connaissance scientique, et évite donc, en principe en tout cas, d'avoir à re-vérifier des résultats déjà prouvés. Ces résultats scientifiques, issus le plus souvent de plusieurs mois de recherche par une équipe de plusieurs personnes, peuvent être présentés sous forme de livre (très commun dans les sciences humaines), de conférences mais le plus souvent, cela prend la forme d'articles scientifiques.
+La publication est au coeur de la recherche scientifique. C'est le mécanisme qui permet le partage de la connaissance scientique, et qui permet aux chercheurs de s'appuyer sur des résultats établis pour faire progresser la science. Les résultats scientifiques, issus le en général de plusieurs mois de recherche et d'une coopération parfois internationale, peuvent être présentés sous forme de livre (très commun dans les sciences humaines), de conférences mais, le plus souvent, ils sont présentés sous la forme d'articles.
 
-Aujourd'hui, le système de publication est fortement critiqué par une grande partie de la communauté. Ce système implique des peer-reviews, des éditeurs scientifiques et, en particulier, des abonnements aux revues scientifiques au prix exhorbitant.
+Ces articles sont publiés dans des revues spécialisés, qui se différencient entre autre par leur renommée. Certaines revues scientifiques comme Nature ou Science, par exemple, sont considérés comme très prestigieux. Publier dans une de ces revues signifie une reconnaissance accrue et souvent moins de difficulté pour trouver des financements pour financer les recherches.
+
+Aujourd'hui, le système de publication est fortement critiqué par une bonne partie de la communauté scientifique. En particulier, de nombreuses critiques sont dirigés vers le système d'abonnement aux revues. Les articles, bien que fourni gratuitement aux éditeurs par les chercheurs, et évalués gratuitement par d'autres experts du domaine, sont souvent cachés derrière des "paywalls". Pour consulter un article, il faut payer $30-50 ou que son institution paye un abonnement annuel d'accès à un bouquet de revues.
 
 ### Mot clés
 
