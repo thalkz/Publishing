@@ -10,12 +10,18 @@ La publication scientifique est au coeur de la recherche. C'est le mécanisme qu
 
 Aujourd'hui, le système de publication est fortement critiqué par une grande partie de la communauté. Ce système implique des peer-reviews, des éditeurs scientifiques et, en particulier, des abonnements aux revues scientifiques au prix exhorbitant.
 
-## Résultats de recherche
+### Mot clés
 
-[Cliquez ici pour accéder au document](payement.md)
+`Publication scientifique`, `Libre accès`, `HAL`, `ArXiv`, `Green Open Access`, `Gold Open Access`
 
-## Remerciements
+### Résultats de recherche
+
+[>>> Cliquez ici pour accéder au document <<<](payement.md)
+
+### Remerciements
 
 Nicolas J.
+
 Benoit P.
+
 Guy S.
