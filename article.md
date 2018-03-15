@@ -23,9 +23,11 @@ Elsevier : 2,7 milliards de CA en 2010, avec 38% de marge (qui a augmenté jusqu
 
 ## Les origines
 
+![maxwell.png](/img/maxwell.png)
+_Robert Maxwell in 1985. Photograph: Terry O'Neill/Hulton/Getty_
+
 Robert Maxwell,
 le père de l’édition scientifique
-
 
 ## La transition
 
@@ -104,6 +106,9 @@ distribue tous les articles sous copyright, gratuitement
 Bien entendu, c’est illégal
 
 Elsevier réclame $15M de dommages et intérêts à Alexandra Elbakyan, la créatrice de Sci-hub.
+
+![elbakyan.png](/img/elbakyan.png)
+_Alexandra Elbakyan Apneet Jolly/flickr/CC BY 2.0_
 
 Elle se cache aujourd’hui en Russie pour échapper à la justice.
 

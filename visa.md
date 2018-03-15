@@ -91,4 +91,4 @@
     </div>
 </div>
 
-Note : Cette page est bien évidemment une fausse page de payement. Inutile de remplir les information demandée, il suffit de cliquer sur "pay now" pour continuer.
+Note : Cette page est bien évidemment une fausse page de paiement. Inutile de remplir les information demandées, il suffit de cliquer sur "pay now" pour continuer.
