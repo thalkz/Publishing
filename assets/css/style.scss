@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-header {
-  display: none;
+#project_title {
+	display: none;
+}
+
+#forkme_banner {
+	display: none;
 }
