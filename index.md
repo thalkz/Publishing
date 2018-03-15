@@ -1,4 +1,4 @@
-# Veille technique sur la Publication Scientifique et le libre accès
+# Synthèse sur la publication scientifique et l'Open Access
 
 ### Auteur
 

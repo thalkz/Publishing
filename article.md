@@ -1,4 +1,4 @@
-# Veille technique sur la publication scientifique et l'Open Access
+# Synthèse sur la publication scientifique et l'Open Access
 
 La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existant pour la publication scientifique, ainsi que certaines solutions existantes.
 
