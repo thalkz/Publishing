@@ -78,7 +78,7 @@ _~ Dr Neal Young, the National Institutes of Health (2008)_
 
 Le modèle lecteur-payeur décrit jusqu'ici (aussi appelé modèle traditionnel), n'est pas leur seul et unique modèle possible. Depuis des années, et en particulier au moment de l'arrivée d'internet, il semblait qu'on allait passer du modèle **lecteur-payeur** à un modèle de **libre accès** dans lequel l'accès aux articles est gratuit et ouvert à tous.
 
-Sauf qu’en pratique, les choses ne sont restent assez compliquées. Il existe différents types d'open accès, green, gold et même "dark". 
+Sauf qu’en pratique, les choses ne sont restent assez compliquées. La transition vers une science plus ouverte, bien que [fortement demandée](http://thecostofknowledge.com/), n'a pas encore abouti.
 
 La vidéo suivante, de la chaine _Seeker_ pose la question "Les articles de recherche devraient-ils être gratuits ?"
 
