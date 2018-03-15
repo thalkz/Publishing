@@ -199,17 +199,16 @@ Négocie les prix des ressources documentaires avec les éditeurs.
 
 Les questions d'Open Access s'inscrivent dans un mouvement plus grand, celui de l'Open Science. Ce mouvement vise à garantir une science plus transparante, en remettant en cause non seulement la publication, mais aussi les peer-review, la reproductibilité des expériences, la pression sur les chercheurs, etc.
 
-Dans un [dossier de 5 articles](https://www.letemps.ch/dossiers/5-plaies-recherche-scientifique), le journal _Le Temps_ relève 5 dysfonctionnement de la recherche aujourd'hui dans 5 articles :
+Dans un [dossier de 5 articles](https://www.letemps.ch/dossiers/5-plaies-recherche-scientifique), le journal _Le Temps_ relève 5 dysfonctionnement de la recherche aujourd'hui :
 * «Publish or perish», quand la science met les chercheurs sous pression
 * Quand les éditeurs confisquent la science
 * La revue par les pairs sous le feu des critiques
 * Dans les labos, des petits arrangements avec la science
 * Une science impossible à reproduire
 
-Une vidéo de _Veritasium_ explique bien les problèmes liés à la recherche, et notament avec le p-hacking, intentionnel ou non :
+Pour finir, cette vidéo de _Veritasium_ explique présente clairement les problèmes liés à la recherche, et notament le p-hacking, intentionnel ou non :
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/42QuXLucH3Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 ## Remerciements
 
