@@ -2,6 +2,8 @@
 
 La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existant pour la publication scientifique, ainsi que certaines solutions existantes.
 
+A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais cet accès coute très cher et chaque année les prix des abonnements augmentent.
+
 ## Quelques chiffres
 
 Pour remettre les choses dans leur contexte, voici quelques chiffres de la recherche en France. (chiffres de 2017)
@@ -132,7 +134,7 @@ Selon les éditeurs, il peut exister une "période d’embargo" de 6 à 12 mois,
 
 En France, [La Loi pour une République Numérique](https://www.economie.gouv.fr/republique-numerique) stipule qu'après 6 à 12 mois, quel que soient les conditions du contract avec l'éditeur, il est possible de publier dans une archive ouverte.
 
-## HAL, l'archive ouverte Française
+### HAL, l'archive ouverte Française
 
 ![hal_logo.png](img/hal_logo.png)
 
@@ -156,13 +158,9 @@ Récement, le dépot sur HAL a été simplifié : à l'aide de la plateforme [Di
 
 ## Les Réseaux Académiques
 
-Entreprises commerciales proposant des services autour de la publication scientifique.
+Récemment, des entreprises commertiales ont vu le jour pour proposer des services complémentaires pour les chercheurs.
 
-Les fichiers déposés ne sont pas modérés
-
-Possible problèmes de droit d’auteur
-
-=> ResearchGate, Academia
+[ResearchGate](https://www.researchgate.net/) et [Academia](https://www.academia.edu) sont des réseaux académiques qui permettent de partager ses publications à son réseaux. Il n'y a cependant pas vérification du contenu, qui peut ne jamais avoir été évalué par des pairs ou qui peut encore être sous copyright d'un éditeur. [ResearchGate a récemment dû retirer 2 millions d'articles de sa plateforme](https://www.the-scientist.com/?articles.view/articleNo/50918/title/ResearchGate-Restricts-Access-to-Nearly-2-Million-Articles/)
 
 ## Dark Open Access
 
