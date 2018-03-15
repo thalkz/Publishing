@@ -78,16 +78,16 @@
               </label>
             </div>
           </div>
-
-		  <!-- Submit -->
-		    <div class="control-group" style="margin-left: 250px">
-			<div class="controls">
-				<button class="btn btn-success" onclick="window.location.href='article.html'">Pay Now</button>
-			</div>
-		</div>
-     
         </fieldset>
       </form>
+
+		<!-- Submit -->
+		<div class="control-group" style="margin-left: 250px">
+			<div class="controls">
+			<button class="btn btn-success" onclick="window.location.href='article.html'">Pay Now</button>
+		</div>
+
+		</div>
     </div>
 </div>
 
