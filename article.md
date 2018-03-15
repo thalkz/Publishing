@@ -58,6 +58,8 @@ Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs :
 
 ## Les origines
 
+Si la publication est tellement profitable aux éditeurs, on peut se demander comment on en est arrivé la. La réponse est en partie liée à cet homme :
+
 ![maxwell.png](/img/maxwell.png)
 
 _Robert Maxwell in 1985. Photograph: Terry O'Neill/Hulton/Getty_
