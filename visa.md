@@ -79,14 +79,14 @@
             </div>
           </div>
      
-          <!-- Submit -->
-          <div class="control-group">
-            <div class="controls">
-              <button class="btn btn-success">Pay Now</button>
-            </div>
-          </div>
-     
         </fieldset>
       </form>
+
+		<!-- Submit -->
+		<div class="control-group">
+			<div class="controls">
+				<button class="btn btn-success" onclick="window.location.href='visa.html'">Pay Now</button>
+			</div>
+		</div>
     </div>
 </div>
