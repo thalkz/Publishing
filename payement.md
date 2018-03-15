@@ -6,7 +6,7 @@ Vous devez être abonné pour accéder à cet article. Vous pouvez vous connecte
 
 Vérifiez si vous avez accès grâce à vos identifiants de votre institution.
 
-<button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #4CAF50; cursor: pointer""        	onclick="window.location.href='https://www.sciencedirect.com/user/login'">Vérifier l'accès</button>
+<button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #4CAF50; cursor: pointer"     	onclick="window.location.href='https://www.sciencedirect.com/user/login'">Vérifier l'accès</button>
 
 ### Acheter l'accès l'article
 
@@ -16,4 +16,4 @@ Payez ~~45€~~ **35€** seulement pour avoir accès à l'article !
 - [x] Possibilité de citer l'auteur
 - [x] Téléchargez l'article en PDF
 
-<button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #555555; cursor: pointer" onclick="window.location.href='article.html'">Payement par Carte</button>
+<button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #555555; cursor: pointer" onclick="window.location.href='article.html'">Payer 35€ par Carte Bleue</button>
