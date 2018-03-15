@@ -41,21 +41,20 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 5. L'article validé par les rapporteurs est mis en forme selon les standards de l'éditeur. Contrairement à ce que l'on pourrait penser, c'est en général au chercheur lui même de faire ce travail.
 
-6. L'éditeur publie simplement l'article corrigé et mis en forme sur son site. **Le chercheur perds les droits sur son article**. Théoriquement, il ne peut même plus l'utiliser pour enseigner en classe, si il est enseignant.
+6. L'éditeur publie simplement l'article corrigé et mis en forme sur son site. **Le chercheur perd les droits sur son article**. Théoriquement, il ne peut même plus l'utiliser pour enseigner en classe, si il est enseignant.
 
 7. Cet article sera lu par d'autres chercheur pour approfondir le sujet, mais au prix d'un abonnement payé à l'éditeur.
 
 Ce système fonctionne, mais est extrèmement défavorable aux chercheurs. Les éditeurs scientifiques, sans apporter d'autre valeur que "le prestige" de leurs revues, récoltent tous les bénéfices.
 
-## Business model des éditeurs
-
-Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs:
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Les éditeurs scientifiques
 
-Elsevier : 2,7 milliards de CA en 2010, avec 38% de marge (qui a augmenté jusqu’à 40%)
+Grace à ce système bien en place, les éditeurs scientifiques tel que Elsevie, Springer et Wiley font des bénéfices considérables.
+Elsevier a déclaré en 2010 un chiffre d'affaires de **2,7 milliards d'euros**, avec près de 38% de marge. Cette marge, déjà supérieure à celle des géants tels que Facebook, Google et Amazon, a continué d'augmenté depuis.
+
+Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs :
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Les origines
 
