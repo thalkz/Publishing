@@ -84,38 +84,43 @@ La vidéo suivante, de la chaine _Seeker_ pose la question "Les articles de rech
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Open Access Gold
+## Gold Open Access
 
-C’est la publication d’un article dans un journal en libre accès.
+**Le Gold Open Access, c'est la publication d’un article dans un journal en libre accès.**
+
+Certains éditeurs ont commencé à changer leur modèle économique, pour répondre à ces demandes de libre accès. Cependant, si un éditeur ne fait plus payer les lecteurs, il cherche tout de même une source de revenus. Voici les modèles économiques les plus communs :
 
 * Modèle Auteur-Payeur (APC)
 
+Dans ce modèle, ce sont les chercheurs qui payent pour se faire publier. D'après une [étude du CNRS](http://www.cnrs.fr/dist/z-outils/documents/Distinfo2/DISTetude3.pdf), le prix moyen constaté des APC est en moyenne de 2200€ par article. Cette étude montre qui si toutes les publications du CNRS passaient en Gold Open Access, le coût total de frais envers les éditeurs serait plus que doublé : les 15 M€ par an en frais d’abonnement (2017) deviendraient pour le CNRS 31,5 M€ en APC.
+
+Malgré tout, ce modèle est le modèle privilégié aux Pays-Bas et Angleterre.
+
 * Modèle Hybride (APC et Abonnement)
+
+Le modèle hybride réparti le cout entre le lecteur et l'auteur. En pratique, ce modèle s'accompagne en général d'une augmentation totale du prix payé à l'éditeur.
 
 * Modèle Freemium (Services supplémentaires payants)
 
+Certains journaux en ligne proposent un modèle Freemium dans lequel des services complémentaires (statistiques sur l'article, version full-text, etc) permettent de payer les serveurs.
+
 * Financement par institutions (Labos, bibliothèques, sociétés savantes…)
 
-### Le problème des Article Processing Charges
-
-$2200
-prix moyen par article (moyenne constatée chez Springer)
-CNRS
-15 M€ par an en frais d’abonnement (2017)
-Qui deviennent 31,5 M€, si tout passe en APC
-
-Pourtant, c’est la stratégie en vigueur aux Pays-Bas et Angleterre.
+Dans certains cas, des journaux peuvent être financés en totalité ou en partie par des institutions, laissant l'accès à ces document libre pour tous.
 
 ### L’Open Choice
 
-Choix #1 :
-Donner son article à l’éditeur, qui en fera payer l’accès
-Choix #2 :
-Payer pour que son article soit en libre accès
+L'open choice, est un modèle qui sonne bien mais qui n'est pas très concluant en pratique.
 
-Sauf que :
-Dans un “bouquet” de revue, si 15% des articles sont déjà payés, le prix devrait diminuer de 15%...
-Ce n’est pas le cas. Les prix augmentent.
+L'idée est de donner à l'auteur le choix: 
+
+**Choix #1**
+Donner son article à l’éditeur, qui en fera payer l’accès
+
+**Choix #2**
+Payer pour que son article soit libre d'accès
+
+Le problème est que dans un “bouquet” de revue acheté par les universités, si 15% des articles sont déjà payés par les auteurs, le prix devrait diminuer de 15%... Sauf qu'en pratique ce n’est pas le cas. Et même au contaire, les prix augmentent d'année en année.
 
 ## Green Open Access
 
