@@ -56,8 +56,6 @@ Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs :
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Les origines
-
 Si la publication est tellement profitable aux éditeurs, on peut se demander comment on en est arrivé la. La réponse est en partie liée à cet homme :
 
 ![maxwell.png](/img/maxwell.png)
@@ -112,33 +110,49 @@ Dans certains cas, des journaux peuvent être financés en totalité ou en parti
 
 L'open choice, est un modèle qui sonne bien mais qui n'est pas très concluant en pratique.
 
-L'idée est de donner à l'auteur le choix: 
+L'idée est de donner à l'auteur le choix : 
 
-**Choix #1**
+**Choix #1** : 
 Donner son article à l’éditeur, qui en fera payer l’accès
 
-**Choix #2**
+**Choix #2** : 
 Payer pour que son article soit libre d'accès
 
 Le problème est que dans un “bouquet” de revue acheté par les universités, si 15% des articles sont déjà payés par les auteurs, le prix devrait diminuer de 15%... Sauf qu'en pratique ce n’est pas le cas. Et même au contaire, les prix augmentent d'année en année.
 
 ## Green Open Access
 
-C’est le dépôt d’un article dans une archive ouverte, par le chercheur.
+Le Green Open Access, c’est le dépôt d’un article dans une archive ouverte, par le chercheur.
 
 ### Les archives ouvertes
 
-Les chercheurs doivent déposer manuellement leur postprint
-Impossible de déposer la version éditeur (car sous copyright)
-Période d’embargo de 6 à 12 mois, selon l’éditeur
+Dans une archive ouverte, les chercheurs doivent déposer manuellement leur _postprint_ (ou article corrigé). Pour des raisons de copyright, il est impossible de déposer la version éditeur.
+
+Selon les éditeurs, il peut exister une "période d’embargo" de 6 à 12 mois, pendant laquelle il est interdit de déposer le manuscrit sur archive ouverte.
+
+En France, [La Loi pour une République Numérique](https://www.economie.gouv.fr/republique-numerique) stipule qu'après 6 à 12 mois, quel que soient les conditions du contract avec l'éditeur, il est possible de publier dans une archive ouverte.
+
+## HAL, l'archive ouverte Française
+
+![hal_logo.png](img/hal_logo.png)
+
+[HAL](https://hal.archives-ouvertes.fr/) est l'archive ouverte de référence en France. (A l'internationnal, [ArXiv](https://arxiv.org/) est également très utilisée)
+
+L'intéret d'archives comme HAL est évident, comme illustré sur le schéma suivant :
 
 ![hal.png](/img/hal.png)
 
-### Comment déposer dans HAL, le mode d'emploi
+Le processus est court-circuité, permettant à tous d'accéder aux résultats de recherche et donnant plus de visibilité aux chercheurs.
+
+Une des craintes récurrente avec ce type d'archive est que la qualité des documents soit diminuée. Heureusement, ce n'est pas le cas. Sur HAL tout comme pour tous les journaux, les documents sont soumis à un peer-review et rejetés si besoin.
+
+### Comment déposer dans HAL ?
 
 Voici un slideshare qui explique en détails le dépot dans HAL
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/HAgET0A3BlqtdE" width="640" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/OAccsd/dposer-dans-hal-mode-demploi" title="Déposer dans HAL mode d&#x27;emploi" target="_blank">Déposer dans HAL mode d&#x27;emploi</a> </strong> de <strong><a href="//www.slideshare.net/OAccsd" target="_blank">OAccsd</a></strong></div>
+
+Récement, le dépot sur HAL a été simplifié : à l'aide de la plateforme [Dissem.in](https://dissem.in/), il suffit de rechercher son nom sur la barre de recherche et dissemin détecte quelles publications sont autorisés à être déposés sur HAL et propose de le faire automatiquement en cliquant sur un bouton.
 
 ## Les Réseaux Académiques
 
