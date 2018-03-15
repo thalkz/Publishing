@@ -154,7 +154,9 @@ Voici un slideshare qui explique en détails le dépot dans HAL
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/HAgET0A3BlqtdE" width="640" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/OAccsd/dposer-dans-hal-mode-demploi" title="Déposer dans HAL mode d&#x27;emploi" target="_blank">Déposer dans HAL mode d&#x27;emploi</a> </strong> de <strong><a href="//www.slideshare.net/OAccsd" target="_blank">OAccsd</a></strong></div>
 
-Récement, le dépot sur HAL a été simplifié : à l'aide de la plateforme [Dissem.in](https://dissem.in/), il suffit de rechercher son nom sur la barre de recherche et dissemin détecte quelles publications sont autorisés à être déposés sur HAL et propose de le faire automatiquement en cliquant sur un bouton.
+Comme le montre ces slides, le dépot dans HAL est tout de même relativement compliqué et fastidieux. Récement, le dépot sur HAL a été simplifié : à l'aide de la plateforme [Dissem.in](https://dissem.in/), il suffit de rechercher son nom sur la barre de recherche et Dissemin détecte quelles publications sont autorisés à être déposés sur HAL et propose de le faire _automatiquement_, simplement en cliquant sur un bouton.
+
+Dissemin se base sur l'outil [Sherpa Romeo](http://www.sherpa.ac.uk/romeo/index.php) qui recense les politiques de copyright des éditeurs et permet facilement de les comprendre.
 
 ## Les Réseaux Académiques
 
