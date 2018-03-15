@@ -2,7 +2,7 @@
 
 La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existant pour la publication scientifique, ainsi que certaines solutions existantes.
 
-A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais cet accès coute très cher et chaque année les prix des abonnements augmentent.
+> A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources et de services payants](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais cet accès coute très cher et chaque année les prix des abonnements augmentent.
 
 ## Quelques chiffres
 
