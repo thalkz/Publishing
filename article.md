@@ -62,8 +62,11 @@ Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs :
 
 _Robert Maxwell in 1985. Photograph: Terry O'Neill/Hulton/Getty_
 
-Robert Maxwell,
-le père de l’édition scientifique
+Voici Robert Maxwell, le père de l’édition scientifique, qui est l'homme qui a transformé la publication scientifique à partir des années 50, passant de simple mise à disposition des travaux à une véritable industrie extrèmement profitable.
+
+Un article de The Guardian intitulé _Is the staggeringly profitable business of scientific publishing bad for science?_ raconte son histoire, ainsi que celle de Pergamon, son entreprise d'édition et d'Elsevier.
+
+[Lien vers l'article](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
 ## La transition
 
