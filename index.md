@@ -16,7 +16,7 @@ Aujourd'hui, le système de publication est fortement critiqué par une grande p
 
 ### Résultats de recherche
 
-[>>> Cliquez ici pour accéder au document <<<](payement.md)
+[> Cliquez ici pour accéder au document <](payement.md)
 
 ### Remerciements
 
@@ -25,3 +25,5 @@ Nicolas J.
 Benoit P.
 
 Guy S.
+
+Jean-Pierre C.
