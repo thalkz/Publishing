@@ -45,6 +45,12 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 7. Cet article sera lu par d'autres chercheur pour approfondir le sujet, mais au prix d'un abonnement payé à l'éditeur.
 
+Ce système fonctionne, mais est extrèmement défavorable aux chercheurs. Les éditeurs scientifiques, sans apporter d'autre valeur que "le prestige" de leurs revues, récoltent tous les bénéfices.
+
+Voici une vidéo de #DATAGEULE très bien expliquée :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WnxqoP-c0ZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Les éditeurs scientifiques
 
 Elsevier : 2,7 milliards de CA en 2010, avec 38% de marge (qui a augmenté jusqu’à 40%)
