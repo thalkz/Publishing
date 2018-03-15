@@ -27,7 +27,23 @@ Source : [Grands chiffres de la recherche](http://www.enseignementsup-recherche.
 
 ## Processus de publication
 
+Le processus de publication scientifique est résumé sur le schéma suivant :
+
 ![traditionnel.png](/img/traditionnel.png)
+
+1. Tout commence sur la partie recherche : un projet d'étude est formé, une équipe de chercheurs est choisie, un budget est alloué et pour quelques mois, des recherches sur un sujet précises sont faites. 
+
+2. Un premier manuscript est rédigé par l'équipe de chercheur. En général, ce manuscript est relu par plusieurs paires pour détecter en amont le maximum d'erreurs.
+
+3. Le manuscript est ensuite envoyé à un éditeur (gratuitement!). Choisir sa revue est loin d'être évident. Il faut trouver une revue suffisamment spécialisée mais également suffisamment renommé, pour que l'article soit lu. L'éditeur peut tout à fait choisir de refuser de publier l'article si il ne lui convient pas.
+
+4. Si l'article est accepté, il doit être relu par des pairs, souvent en aveugle, voir en double aveugle. Le rapporteur (celui qui effectue la review) n'est pas payé pour son travail et ne sera pas cité dans l'article final. Ce rapporteur se concentre en général sur la forme de l'article plus que sur le fond, mais peut tout de même demander des expériences supplémentaires pour clarifier certains points.
+
+5. L'article validé par les rapporteurs est mis en forme selon les standards de l'éditeur. Contrairement à ce que l'on pourrait penser, c'est en général au chercheur lui même de faire ce travail.
+
+6. L'éditeur publie simplement l'article corrigé et mis en forme sur son site. **Le chercheur perds les droits sur son article**. Théoriquement, il ne peut même plus l'utiliser pour enseigner en classe, si il est enseignant.
+
+7. Cet article sera lu par d'autres chercheur pour approfondir le sujet, mais au prix d'un abonnement payé à l'éditeur.
 
 ## Les éditeurs scientifiques
 
@@ -36,6 +52,7 @@ Elsevier : 2,7 milliards de CA en 2010, avec 38% de marge (qui a augmenté jusqu
 ## Les origines
 
 ![maxwell.png](/img/maxwell.png)
+
 _Robert Maxwell in 1985. Photograph: Terry O'Neill/Hulton/Getty_
 
 Robert Maxwell,
@@ -120,6 +137,7 @@ Bien entendu, c’est illégal
 Elsevier réclame $15M de dommages et intérêts à Alexandra Elbakyan, la créatrice de Sci-hub.
 
 ![elbakyan.png](/img/elbakyan.png)
+
 _Alexandra Elbakyan Apneet Jolly/flickr/CC BY 2.0_
 
 Elle se cache aujourd’hui en Russie pour échapper à la justice.
