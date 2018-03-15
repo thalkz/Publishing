@@ -90,3 +90,5 @@
 		</div>
     </div>
 </div>
+
+Note : Cette page est bien évidemment une fausse page de payement. Inutile de remplir les information demandée, il suffit de cliquer sur "pay now" pour continuer.
