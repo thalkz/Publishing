@@ -2,18 +2,20 @@
 
 ## Quelques chiffres
 
-47,9 
+### 47,9
 milliards d'euros d’investissement
 soit 2,24% du PIB
 
-575 000 
+### 575 000 
 personnes travaillant dans le secteur de la recherche
 dont 270 000 chercheurs et 75 000 doctorants
 
-80 000
+### 80 000
 articles publiés par an
 
 ## Processus de publication
+
+![traditionnel.png](/img/traditionnel.png)
 
 ## Les éditeurs scientifiques
 
@@ -28,7 +30,8 @@ le père de l’édition scientifique
 ## La transition
 
 > “There is a moral imperative to reconsider how scientific data are judged and disseminated”
-__Dr Neal Young, the National Institutes of Health (2008)__
+
+_~ Dr Neal Young, the National Institutes of Health (2008)_
 
 Modèle traditionnel Lecteur-payeur
 
@@ -80,6 +83,8 @@ C’est le dépôt d’un article dans une archive ouverte, par le chercheur.
 Les chercheurs doivent déposer manuellement leur postprint
 Impossible de déposer la version éditeur (car sous copyright)
 Période d’embargo de 6 à 12 mois, selon l’éditeur
+
+![hal.png](/img/hal.png)
 
 ## Les Réseaux Académiques
 
