@@ -1,17 +1,29 @@
 # Veille technique sur la publication scientifique et l'Open Access
 
+La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existant pour la publication scientifique, ainsi que certaines solutions existantes.
+
 ## Quelques chiffres
 
+Pour remettre les choses dans leur contexte, voici quelques chiffres de la recherche en France. (chiffres de 2017)
+
 ### 47,9
-milliards d'euros d’investissement
+milliards d'euros d’investissement par le gouvernement
 soit 2,24% du PIB
 
-### 575 000 
+Bien qu'impressionnant, ce montant d'investissement ne couvre pas tous les frais de la recherche en France. Une grande partie des études réalisés sont financés (du moins en partie) par le secteur privé, qui complète les lacunes du financement publique.
+
+### 575 000
 personnes travaillant dans le secteur de la recherche
 dont 270 000 chercheurs et 75 000 doctorants
 
+La France se place derrière la Corée du sud (13 pour mille), le Japon (10,4 pour millle), mais devant le Royaume-Uni (8,4 pour mille), l'Allemagne (8,4 pour mille) et les Etats-Unis (8,3 pour mille).
+
 ### 80 000
-articles publiés par an
+articles publiés par an en France
+
+Ce la place la France 7e sur la classement mondial par nombre de publications
+
+Source : [Grands chiffres de la recherche](http://www.enseignementsup-recherche.gouv.fr/cid56383/grands-chiffres-de-la-recherche.html)
 
 ## Processus de publication
 
