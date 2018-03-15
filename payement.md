@@ -6,7 +6,7 @@ Vous devez être abonné pour accéder à cet article. Vous pouvez vous connecte
 
 Vérifiez si vous avez accès grâce à vos identifiants de votre institution.
 
-<button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #4CAF50; cursor: pointer"     	onclick="window.location.href='article.html'">Vérifier l'accès</button>
+<button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #4CAF50; cursor: pointer" onclick="window.location.href='no-access.html'">Vérifier l'accès</button>
 
 ### Acheter l'accès l'article
 
