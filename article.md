@@ -70,19 +70,19 @@ Un article de The Guardian intitulé _Is the staggeringly profitable business of
 
 [Lien vers l'article](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
-## La transition
+## Transition vers l'Open Access
 
 > “There is a moral imperative to reconsider how scientific data are judged and disseminated”
 
 _~ Dr Neal Young, the National Institutes of Health (2008)_
 
-Modèle traditionnel Lecteur-payeur
+Le modèle lecteur-payeur décrit jusqu'ici (aussi appelé modèle traditionnel), n'est pas leur seul et unique modèle possible. Depuis des années, et en particulier au moment de l'arrivée d'internet, il semblait qu'on allait passer du modèle **lecteur-payeur** à un modèle de **libre accès** dans lequel l'accès aux articles est gratuit et ouvert à tous.
 
-=>
+Sauf qu’en pratique, les choses ne sont restent assez compliquées. Il existe différents types d'open accès, green, gold et même "dark". 
 
-Modèle Libre Accès
+La vidéo suivante, de la chaine _Seeker_ pose la question "Les articles de recherche devraient-ils être gratuits ?"
 
-Sauf qu’en pratique, les choses ne sont assez compliqué. C’est tout ça que je vais essayer de clarifier dans cette seconde partie.
+<iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Open Access Gold
 
@@ -128,8 +128,6 @@ Impossible de déposer la version éditeur (car sous copyright)
 Période d’embargo de 6 à 12 mois, selon l’éditeur
 
 ![hal.png](/img/hal.png)
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Comment déposer dans HAL, le mode d'emploi
 
