@@ -131,6 +131,12 @@ Période d’embargo de 6 à 12 mois, selon l’éditeur
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### Comment déposer dans HAL, le mode d'emploi
+
+Voici un slideshare qui explique en détails le dépot dans HAL
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HAgET0A3BlqtdE" width="640" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/OAccsd/dposer-dans-hal-mode-demploi" title="Déposer dans HAL mode d&#x27;emploi" target="_blank">Déposer dans HAL mode d&#x27;emploi</a> </strong> de <strong><a href="//www.slideshare.net/OAccsd" target="_blank">OAccsd</a></strong></div>
+
 ## Les Réseaux Académiques
 
 Entreprises commerciales proposant des services autour de la publication scientifique.
