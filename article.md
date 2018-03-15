@@ -2,7 +2,7 @@
 
 La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existant pour la publication scientifique, ainsi que certaines solutions existantes.
 
-> A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources et de services payants](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais cet accès coute très cher et chaque année les prix des abonnements augmentent.
+> A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources et de services payants](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais cet accès coute cher à l'école et, chaque année, les prix de ces abonnements augmentent.
 
 ## Quelques chiffres
 
@@ -158,9 +158,15 @@ Comme le montre ces slides, le dépot dans HAL est tout de même relativement co
 
 Dissemin se base sur l'outil [Sherpa Romeo](http://www.sherpa.ac.uk/romeo/index.php) qui recense les politiques de copyright des éditeurs et permet facilement de les comprendre.
 
+### Facilement trouver la version gratuite d'un article
+
+Il existe une extention Chrome, [Unpaywall](http://unpaywall.org/) qui cherche automatiquement sur internet la version gratuite des articles payants. Si vous trouvez un article qui vous intéresse mais que vous n'avez pas l'accès, Unpaywall peut trouver une version gratuite déposée dans une archive ouverte type HAL.
+
+Unpaywall est proposé gratuitement par une association à but non lucratif qui s'appelle [Impactstory](http://impactstory.org/) qui cherche à rendre la recherche plus ouverte.
+
 ## Les Réseaux Académiques
 
-Récemment, des entreprises commertiales ont vu le jour pour proposer des services complémentaires pour les chercheurs.
+Récemment, des entreprises commerciales ont vu le jour pour proposer des services complémentaires pour les chercheurs.
 
 [ResearchGate](https://www.researchgate.net/) et [Academia](https://www.academia.edu) sont des réseaux académiques qui permettent de partager ses publications à son réseaux. Il n'y a cependant pas vérification du contenu, qui peut ne jamais avoir été évalué par des pairs ou qui peut encore être sous copyright d'un éditeur. [ResearchGate a récemment dû retirer 2 millions d'articles de sa plateforme](https://www.the-scientist.com/?articles.view/articleNo/50918/title/ResearchGate-Restricts-Access-to-Nearly-2-Million-Articles/)
 
