@@ -68,7 +68,7 @@ Voici Robert Maxwell, le père de l’édition scientifique, qui est l'homme qui
 
 Un article de The Guardian intitulé _Is the staggeringly profitable business of scientific publishing bad for science?_ raconte son histoire, ainsi que celle de Pergamon, son entreprise d'édition et d'Elsevier.
 
-[Lien vers l'article](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+[Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
 ## Transition vers l'Open Access
 
@@ -170,20 +170,19 @@ Récemment, des entreprises commerciales ont vu le jour pour proposer des servic
 
 [ResearchGate](https://www.researchgate.net/) et [Academia](https://www.academia.edu) sont des réseaux académiques qui permettent de partager ses publications à son réseaux. Il n'y a cependant pas vérification du contenu, qui peut ne jamais avoir été évalué par des pairs ou qui peut encore être sous copyright d'un éditeur. [ResearchGate a récemment dû retirer 2 millions d'articles de sa plateforme](https://www.the-scientist.com/?articles.view/articleNo/50918/title/ResearchGate-Restricts-Access-to-Nearly-2-Million-Articles/)
 
+En pratique, ResearchGate permet de trouver de nombreux articles en accès libre, ce qui fait une bonne transition vers le dernier type d'Open Access.
+
 ## Dark Open Access
 
-**Sci-hub**
-distribue tous les articles sous copyright, gratuitement
+Le Dark Open Access, est la mise à disposition d'articles sous copyright (donc illégalement)
 
-Bien entendu, c’est illégal
+La plateforme la plus connue est **Sci-hub** qui permet d'effectuer des recherche par titre ou par doi dans une base de donnée immense.
 
-Elsevier réclame $15M de dommages et intérêts à Alexandra Elbakyan, la créatrice de Sci-hub.
+Elsevier a gagné un procès contre Alexandra Elbakyan, la créatrice de Sci-hub. Ils réclament $15M de dommages et intérêts. Alexandra se cache aujourd'hui quelquepart en Russie pour échapper à la justice. Sci-hub continue à être tenu à jour.
 
 ![elbakyan.png](/img/elbakyan.png)
 
 _Alexandra Elbakyan Apneet Jolly/flickr/CC BY 2.0_
-
-Elle se cache aujourd’hui en Russie pour échapper à la justice.
 
 ## Quelques initiatives en France
 
