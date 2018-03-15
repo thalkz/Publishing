@@ -54,7 +54,7 @@ Elsevier a déclaré en 2010 un chiffre d'affaires de **2,7 milliards d'euros**,
 
 Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs :
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Les origines
 
@@ -128,6 +128,8 @@ Impossible de déposer la version éditeur (car sous copyright)
 Période d’embargo de 6 à 12 mois, selon l’éditeur
 
 ![hal.png](/img/hal.png)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Les Réseaux Académiques
 
