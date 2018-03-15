@@ -188,16 +188,40 @@ _Alexandra Elbakyan Apneet Jolly/flickr/CC BY 2.0_
 
 **La Loi pour une république numérique (octobre 2016)**
 
-Tout article publié, quelles que soient les conditions fixés par l’éditeur, pourra voir sa version postprint publié dans une archive ouverte.
+Tout article publié, quelles que soient les conditions fixés par l’éditeur, pourra voir sa version postprint publié dans une archive ouverte, 6 à 12 mois après la signature du contrat d'édition.
 
 **Le consortium Couperin**
 
 Association à but non lucratif représentant de nombreux établissements universitaires français.
 Négocie les prix des ressources documentaires avec les éditeurs.
 
-## Bibliographie
+## L'Open Science
 
-Benoît PIER, chercheur au LMFA
+Les questions d'Open Access s'inscrivent dans un mouvement plus grand, celui de l'Open Science. Ce mouvement vise à garantir une science plus transparante, en remettant en cause non seulement la publication, mais aussi les peer-review, la reproductibilité des expériences, la pression sur les chercheurs, etc.
+
+Dans un [dossier de 5 articles](https://www.letemps.ch/dossiers/5-plaies-recherche-scientifique), le journal _Le Temps_ relève 5 dysfonctionnement de la recherche aujourd'hui dans 5 articles :
+* «Publish or perish», quand la science met les chercheurs sous pression
+* Quand les éditeurs confisquent la science
+* La revue par les pairs sous le feu des critiques
+* Dans les labos, des petits arrangements avec la science
+* Une science impossible à reproduire
+
+Une vidéo de _Veritasium_ explique bien les problèmes liés à la recherche, et notament avec le p-hacking, intentionnel ou non :
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/42QuXLucH3Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## Remerciements
+
+Nicolas J.
+
+Benoit P.
+
+Guy S.
+
+Jean-Pierre C.
+
+## Bibliographie
 
 Etat de l'Enseignement supérieur et de la Recherche en France n°10 (avril 2017), ESR
 
