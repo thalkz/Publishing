@@ -47,9 +47,11 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 Ce système fonctionne, mais est extrèmement défavorable aux chercheurs. Les éditeurs scientifiques, sans apporter d'autre valeur que "le prestige" de leurs revues, récoltent tous les bénéfices.
 
-Voici une vidéo de #DATAGEULE très bien expliquée :
+## Business model des éditeurs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WnxqoP-c0ZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Les éditeurs scientifiques
 
