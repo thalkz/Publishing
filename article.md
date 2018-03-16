@@ -1,8 +1,8 @@
 # Synthèse sur la publication scientifique et l'Open Access
 
-La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existant pour la publication scientifique, ainsi que certaines solutions existantes.
+La publication scientifique est aujourd'hui une vraie question d'actualité qui est malheureusement peu connue et/ou mal comprise. Ce document a pour objectif de clarifier les problèmes existants pour la publication scientifique, ainsi que certaines solutions existantes.
 
-> A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources et de services payants](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais cet accès coute cher à l'école et, chaque année, les prix de ces abonnements augmentent.
+> A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources scientifiques](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais ces accès coutent cher et, chaque année, les prix de ces abonnements augmentent.
 
 ## Quelques chiffres
 
@@ -12,7 +12,7 @@ Pour remettre les choses dans leur contexte, voici quelques chiffres de la reche
 milliards d'euros d’investissement par le gouvernement
 soit 2,24% du PIB
 
-Bien qu'impressionnant, ce montant d'investissement ne couvre pas tous les frais de la recherche en France. Une grande partie des études réalisés sont financés (du moins en partie) par le secteur privé, qui complète les lacunes du financement publique.
+Bien qu'impressionnant, ce montant d'investissement ne couvre pas tous les frais de la recherche en France. Une grande partie des études réalisés sont financés (du moins en partie) par le secteur privé.
 
 ### 575 000
 personnes travaillant dans le secteur de la recherche
@@ -23,7 +23,7 @@ La France se place derrière la Corée du sud (13 pour mille), le Japon (10,4 po
 ### 80 000
 articles publiés par an en France
 
-Ce la place la France 7e sur la classement mondial par nombre de publications
+Cela place la France 7e sur la classement mondial du nombre de publications
 
 Source : [Grands chiffres de la recherche](http://www.enseignementsup-recherche.gouv.fr/cid56383/grands-chiffres-de-la-recherche.html)
 
@@ -33,13 +33,13 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 ![traditionnel.png](/img/traditionnel.png)
 
-1. Tout commence sur la partie recherche : un projet d'étude est formé, une équipe de chercheurs est choisie, un budget est alloué et pour quelques mois, des recherches sur un sujet précises sont faites. 
+1. Tout commence sur la partie recherche : un projet d'étude est formé, une équipe de chercheurs est choisie, un budget est alloué et pour quelques mois, des recherches sur un sujet précis sont effectuées. 
 
-2. Un premier manuscript est rédigé par l'équipe de chercheur. En général, ce manuscript est relu par plusieurs paires pour détecter en amont le maximum d'erreurs.
+2. Un premier manuscript est rédigé par l'équipe de chercheur. Ce manuscript est loin d'être la version final. En général, ce manuscript est relu par plusieurs pairs pour détecter en amont le maximum d'erreurs.
 
-3. Le manuscript est ensuite envoyé à un éditeur (gratuitement!). Choisir sa revue est loin d'être évident. Il faut trouver une revue suffisamment spécialisée mais également suffisamment renommé, pour que l'article soit lu. L'éditeur peut tout à fait choisir de refuser de publier l'article si il ne lui convient pas.
+3. Le manuscript est ensuite envoyé à un éditeur (gratuitement!). Choisir sa revue est loin d'être évident. Il faut trouver une revue suffisamment spécialisée mais également suffisamment connue, pour que l'article soit lu. L'éditeur peut tout à fait choisir de refuser de publier l'article si il ne lui convient pas.
 
-4. Si l'article est accepté, il doit être relu par des pairs, souvent en aveugle, voir en double aveugle. Le rapporteur (celui qui effectue la review) n'est pas payé pour son travail et ne sera pas cité dans l'article final. Ce rapporteur se concentre en général sur la forme de l'article plus que sur le fond, mais peut tout de même demander des expériences supplémentaires pour clarifier certains points.
+4. Si l'article est accepté, il doit être relu par des pairs, souvent en aveugle, voire en double aveugle. Le rapporteur (celui qui effectue la review) n'est pas payé pour son travail et ne sera pas cité dans l'article final. Ce rapporteur se concentre en général sur la forme de l'article plus que sur le fond, mais peut tout de même demander des expériences supplémentaires pour clarifier certains points.
 
 5. L'article validé par les rapporteurs est mis en forme selon les standards de l'éditeur. Contrairement à ce que l'on pourrait penser, c'est en général au chercheur lui même de faire ce travail.
 
@@ -51,14 +51,16 @@ Ce système fonctionne, mais est extrèmement défavorable aux chercheurs. Les �
 
 ## Les éditeurs scientifiques
 
-Grace à ce système bien en place, les éditeurs scientifiques tel que Elsevie, Springer et Wiley font des bénéfices considérables.
+Grace à ce système bien en place, les éditeurs scientifiques tel que Elsevier, Springer et Wiley font des bénéfices considérables.
 Elsevier a déclaré en 2010 un chiffre d'affaires de **2,7 milliards d'euros**, avec près de 38% de marge. Cette marge, déjà supérieure à celle des géants tels que Facebook, Google et Amazon, a continué d'augmenté depuis.
 
 Voici une vidéo de #DATAGEULE qui explique le business model des éditeurs :
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WnxqoP-c0ZE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Si la publication est tellement profitable aux éditeurs, on peut se demander comment on en est arrivé la. La réponse est en partie liée à cet homme :
+Si la publication est tellement profitable aux éditeurs et défavorable aux universités, on peut se demander comment on en est arrivé la. 
+
+La réponse est en partie liée à cet homme :
 
 ![maxwell.png](/img/maxwell.png)
 
@@ -66,7 +68,7 @@ _Robert Maxwell in 1985. Photograph: Terry O'Neill/Hulton/Getty_
 
 Voici Robert Maxwell, le père de l’édition scientifique, qui est l'homme qui a transformé la publication scientifique à partir des années 50, passant de simple mise à disposition des travaux à une véritable industrie extrèmement profitable.
 
-Un article de The Guardian intitulé _Is the staggeringly profitable business of scientific publishing bad for science?_ raconte son histoire, ainsi que celle de Pergamon, son entreprise d'édition et d'Elsevier.
+Un article de The Guardian intitulé _Is the staggeringly profitable business of scientific publishing bad for science?_ raconte son histoire, ainsi que celle de Pergamon, son entreprise d'édition ainsi que les origines du plus gros éditeur : Elsevier.
 
 [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
@@ -76,11 +78,11 @@ Un article de The Guardian intitulé _Is the staggeringly profitable business of
 
 _~ Dr Neal Young, the National Institutes of Health (2008)_
 
-Le modèle lecteur-payeur décrit jusqu'ici (aussi appelé modèle traditionnel), n'est pas leur seul et unique modèle possible. Depuis des années, et en particulier au moment de l'arrivée d'internet, il semblait qu'on allait passer du modèle **lecteur-payeur** à un modèle de **libre accès** dans lequel l'accès aux articles est gratuit et ouvert à tous.
+Le modèle lecteur-payeur décrit jusqu'ici (aussi appelé modèle traditionnel), n'est pas leur seul et unique modèle possible. Depuis des années, et en particulier au moment de l'arrivée d'internet, il semblait que le modèle allait passer de **lecteur-payeur** à un modèle de **libre accès** dans lequel l'accès aux articles est gratuit et ouvert à tous.
 
-Sauf qu’en pratique, les choses ne sont restent assez compliquées. La transition vers une science plus ouverte, bien que [fortement demandée](http://thecostofknowledge.com/), n'a pas encore abouti.
+Sauf qu’en pratique, les choses ne sont restent assez compliquées. La transition vers une science plus ouverte, bien que [fortement demandée](http://thecostofknowledge.com/), est loin d'avoir aboutie.
 
-La vidéo suivante, de la chaine _Seeker_ pose la question "Les articles de recherche devraient-ils être gratuits ?"
+La vidéo suivante, de la chaine Youtube _Seeker_ pose la question suivant : "Les articles de recherche devraient-ils être gratuits ?"
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
