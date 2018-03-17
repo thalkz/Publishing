@@ -12,7 +12,7 @@ La publication scientifique est aujourd'hui une vraie question d'actualité qui 
 - [Transition vers l'Open Access](#transition-vers-l-open-access)
 - [Gold Open Access](#gold-open-access)
 - [Green Open Access](#green-open-access)
-- [Les Réseaux Académiques](#les-reseaux-academiques)
+- [Les Réseaux Académiques](#les-réseaux-academiques)
 - [Dark Open Access](#dark-open-access)
 - [Quelques initiatives en France](#quelques-initiatives-en-france)
 - [L'Open Science](#open-science)
@@ -185,7 +185,7 @@ Il existe une extention Chrome, [Unpaywall](http://unpaywall.org/) qui cherche a
 
 Unpaywall est proposé gratuitement par une association à but non lucratif qui s'appelle [Impactstory](http://impactstory.org/) qui cherche à rendre la recherche plus ouverte.
 
-## [Les Réseaux Académiques](#les-reseaux-academiques)
+## [Les Réseaux Académiques](#les-réseaux-academiques)
 
 Récemment, des entreprises commerciales ont vu le jour pour proposer des services complémentaires pour les chercheurs.
 
