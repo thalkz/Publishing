@@ -4,7 +4,7 @@ La publication scientifique est aujourd'hui une vraie question d'actualité qui 
 
 > A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources scientifiques](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais ces accès coutent cher et, chaque année, les prix de ces abonnements augmentent.
 
-## Quelques chiffres
+## [Quelques chiffres](#quelques-chiffres)
 
 Pour remettre les choses dans leur contexte, voici quelques chiffres de la recherche en France. (chiffres de 2017)
 
