@@ -4,6 +4,21 @@ La publication scientifique est aujourd'hui une vraie question d'actualité qui 
 
 > A l'École Centrale de Lyon, nous avons la chance d'avoir accès à un [très large panel de sources scientifiques](https://bibli.ec-lyon.fr/acces-documentation/bibliotheque-numerique), mais ces accès coutent cher et, chaque année, les prix de ces abonnements augmentent.
 
+## Sommaire
+
+[Quelques chiffres](#quelques-chiffres)
+[Processus de publication](#processus-de-publication)
+[Les éditeurs scientifiques](#les-editeurs-scientifiques)
+[Transition vers l'Open Access](#transition-vers-l-open-access)
+[Gold Open Access](#gold-open-access)
+[Green Open Access](#green-open-access)
+[Les Réseaux Académiques](#les-reseaux-academiques)
+[Dark Open Access](#dark-open-access)
+[Quelques initiatives en France](#quelques-initiatives-en-france)
+[L'Open Science](#open-science)
+[Remerciements](#remerciements)
+[Bibliographie](#bibliographie)
+
 ## [Quelques chiffres](#quelques-chiffres)
 
 Pour remettre les choses dans leur contexte, voici quelques chiffres de la recherche en France. (chiffres de 2017)
@@ -27,7 +42,7 @@ Cela place la France 7e sur la classement mondial du nombre de publications
 
 Source : [Grands chiffres de la recherche](http://www.enseignementsup-recherche.gouv.fr/cid56383/grands-chiffres-de-la-recherche.html)
 
-## Processus de publication
+## [Processus de publication](#processus-de-publication)
 
 Le processus de publication scientifique est résumé sur le schéma suivant :
 
@@ -49,7 +64,7 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 Ce système fonctionne, mais est extrèmement défavorable aux chercheurs. Les éditeurs scientifiques, sans apporter d'autre valeur que "le prestige" de leurs revues, récoltent tous les bénéfices.
 
-## Les éditeurs scientifiques
+## [Les éditeurs scientifiques](#les-editeurs-scientifiques)
 
 Grace à ce système bien en place, les éditeurs scientifiques tel que Elsevier, Springer et Wiley font des bénéfices considérables.
 Elsevier a déclaré en 2010 un chiffre d'affaires de **2,7 milliards d'euros**, avec près de 38% de marge. Cette marge, déjà supérieure à celle des géants tels que Facebook, Google et Amazon, a continué d'augmenté depuis.
@@ -72,7 +87,7 @@ Un article de The Guardian intitulé _Is the staggeringly profitable business of
 
 [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
-## Transition vers l'Open Access
+## [Transition vers l'Open Access](#transition-vers-l-open-access)
 
 > “There is a moral imperative to reconsider how scientific data are judged and disseminated”
 
@@ -86,7 +101,7 @@ La vidéo suivante, de la chaine Youtube _Seeker_ pose la question suivant : "Le
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/69yF7ksLWC0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Gold Open Access
+## [Gold Open Access](#gold-open-access)
 
 **Le Gold Open Access, c'est la publication d’un article dans un journal en libre accès.**
 
@@ -124,7 +139,7 @@ Payer pour que son article soit libre d'accès
 
 Le problème est que dans un “bouquet” de revue acheté par les universités, si 15% des articles sont déjà payés par les auteurs, le prix devrait diminuer de 15%... Sauf qu'en pratique ce n’est pas le cas. Et même au contaire, les prix augmentent d'année en année.
 
-## Green Open Access
+## [Green Open Access](#green-open-access)
 
 Le Green Open Access, c’est le dépôt d’un article dans une archive ouverte, par le chercheur. Les archives ouvertes sont des bases de données numériques d'articles, de résultats et de données scientifiques ouvertes à tous.
 
@@ -170,7 +185,7 @@ Il existe une extention Chrome, [Unpaywall](http://unpaywall.org/) qui cherche a
 
 Unpaywall est proposé gratuitement par une association à but non lucratif qui s'appelle [Impactstory](http://impactstory.org/) qui cherche à rendre la recherche plus ouverte.
 
-## Les Réseaux Académiques
+## [Les Réseaux Académiques](#les-reseaux-academiques)
 
 Récemment, des entreprises commerciales ont vu le jour pour proposer des services complémentaires pour les chercheurs.
 
@@ -178,7 +193,7 @@ Récemment, des entreprises commerciales ont vu le jour pour proposer des servic
 
 En pratique, ResearchGate permet de trouver de nombreux articles en accès libre, ce qui fait une bonne transition vers le dernier type d'Open Access.
 
-## Dark Open Access
+## [Dark Open Access](#dark-open-access)
 
 Le Dark Open Access, est la mise à disposition d'articles sous copyright (donc illégalement)
 
@@ -190,7 +205,7 @@ Elsevier a gagné un procès contre Alexandra Elbakyan, la créatrice de Sci-hub
 
 _Alexandra Elbakyan Apneet Jolly/flickr/CC BY 2.0_
 
-## Quelques initiatives en France
+## [Quelques initiatives en France](#quelques-initiatives-en-france)
 
 **La Loi pour une république numérique (octobre 2016)**
 
@@ -205,7 +220,7 @@ Négocie les prix des ressources documentaires avec les éditeurs.
 
 [OpenEdition](https://www.openedition.org/) est un portail de ressources électroniques en sciences humaines et sociales, qui propose une offre freemium destinée aux institutions.
 
-## L'Open Science
+## [L'Open Science](#open-science)
 
 Les questions d'Open Access s'inscrivent dans un mouvement plus grand, celui de l'Open Science. Ce mouvement vise à garantir une science plus transparante, en remettant en cause non seulement la publication, mais aussi les peer-review, la reproductibilité des expériences, la pression sur les chercheurs, etc.
 
@@ -220,7 +235,7 @@ Pour finir, cette vidéo de _Veritasium_ explique présente clairement les probl
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/42QuXLucH3Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Remerciements
+## [Remerciements](#remerciements)
 
 Nicolas J.
 
@@ -230,7 +245,7 @@ Guy S.
 
 Jean-Pierre C.
 
-## Bibliographie
+## [Bibliographie](#bibliographie)
 
 [Etat de l'Enseignement supérieur et de la Recherche en France n°10, ESR (Avril 2017)](http://www.enseignementsup-recherche.gouv.fr/cid115635/l-etat-de-l-enseignement-superieur-et-de-la-recherche-en-france-n-10-avril-2017.html)
 
