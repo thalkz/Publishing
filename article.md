@@ -6,18 +6,18 @@ La publication scientifique est aujourd'hui une vraie question d'actualité qui 
 
 ## Sommaire
 
-[Quelques chiffres](#quelques-chiffres)
-[Processus de publication](#processus-de-publication)
-[Les éditeurs scientifiques](#les-editeurs-scientifiques)
-[Transition vers l'Open Access](#transition-vers-l-open-access)
-[Gold Open Access](#gold-open-access)
-[Green Open Access](#green-open-access)
-[Les Réseaux Académiques](#les-reseaux-academiques)
-[Dark Open Access](#dark-open-access)
-[Quelques initiatives en France](#quelques-initiatives-en-france)
-[L'Open Science](#open-science)
-[Remerciements](#remerciements)
-[Bibliographie](#bibliographie)
+- [Quelques chiffres](#quelques-chiffres)
+- [Processus de publication](#processus-de-publication)
+- [Les éditeurs scientifiques](#les-editeurs-scientifiques)
+- [Transition vers l'Open Access](#transition-vers-l-open-access)
+- [Gold Open Access](#gold-open-access)
+- [Green Open Access](#green-open-access)
+- [Les Réseaux Académiques](#les-reseaux-academiques)
+- [Dark Open Access](#dark-open-access)
+- [Quelques initiatives en France](#quelques-initiatives-en-france)
+- [L'Open Science](#open-science)
+- [Remerciements](#remerciements)
+- [Bibliographie](#bibliographie)
 
 ## [Quelques chiffres](#quelques-chiffres)
 
