@@ -35,15 +35,15 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 1. Tout commence sur la partie recherche : un projet d'étude est formé, une équipe de chercheurs est choisie, un budget est alloué et pour quelques mois, des recherches sur un sujet précis sont effectuées. 
 
-2. Un premier manuscript est rédigé par l'équipe de chercheur. Ce manuscript est loin d'être la version final. En général, ce manuscript est relu par plusieurs pairs pour détecter en amont le maximum d'erreurs.
+2. Un premier manuscrit est rédigé par l'équipe de chercheur. Ce manuscrit est loin d'être la version final. En général, ce manuscrit est relu par plusieurs pairs pour détecter en amont le maximum d'erreurs.
 
-3. Le manuscript est ensuite envoyé à un éditeur (gratuitement!). Choisir sa revue est loin d'être évident. Il faut trouver une revue suffisamment spécialisée mais également suffisamment connue, pour que l'article soit lu. L'éditeur peut tout à fait choisir de refuser de publier l'article si il ne lui convient pas.
+3. Le manuscrit est ensuite envoyé à un éditeur (gratuitement!). Choisir sa revue est loin d'être évident. Il faut trouver une revue suffisamment spécialisée mais également suffisamment connue, pour que l'article soit lu. Le comité éditorial de la revue peut tout à fait choisir de refuser de publier l'article si il ne lui convient pas. Le manuscript doit être mis en forme selon les standards de l'éditeur, travail encore une fois effectué par le chercheur.
 
-4. Si l'article est accepté, il doit être relu par des pairs, souvent en aveugle, voire en double aveugle. Le rapporteur (celui qui effectue la review) n'est pas payé pour son travail et ne sera pas cité dans l'article final. Ce rapporteur se concentre en général sur la forme de l'article plus que sur le fond, mais peut tout de même demander des expériences supplémentaires pour clarifier certains points.
+4. Si l'article est accepté, il doit être relu par des pairs, souvent en aveugle (les rapporteurs ne savent pas qui ils reviewent), voire en double aveugle (le chercheur ne sait pas non plus par qui il a été corrigé). Les rapporteurs (ceux qui effectue la review) ne sont pas payés pour leur travail et ne seront pas cités dans l'article final. Ces rapporteurs se s'intéressent à la fois sur le fond (la qualité du contenu scientifique) et sur la forme de l'article (formulations, etc.). Dans certains cas, un rapporteur peut demander une oud des expériences supplémentaires pour compléter l'étude. A ce stade, l'article peut également être rejeté si un gros problème de fond est détecté.
 
-5. L'article validé par les rapporteurs est mis en forme selon les standards de l'éditeur. Contrairement à ce que l'on pourrait penser, c'est en général au chercheur lui même de faire ce travail.
+5. L'article validé par les rapporteurs subit une dernière mise en forme : ajout de la pagination, du logo de l'éditeur, etc.
 
-6. L'éditeur publie simplement l'article corrigé et mis en forme sur son site. **Le chercheur perd les droits sur son article**. Théoriquement, il ne peut même plus l'utiliser pour enseigner en classe, si il est enseignant.
+6. L'éditeur publie l'article corrigé et mis en forme sur son site. **le chercheur cède son droit patrimonial (qui permet l'exploitation commerciale de l'article), mais il conserve son droit moral (le droit d'être cité)**. Théoriquement, il ne peut même plus l'utiliser pour enseigner en classe, si il est enseignant.
 
 7. Cet article sera lu par d'autres chercheur pour approfondir le sujet, mais au prix d'un abonnement payé à l'éditeur.
 
@@ -100,7 +100,7 @@ Malgré tout, ce modèle est le modèle privilégié aux Pays-Bas et Angleterre.
 
 * Modèle Hybride (APC et Abonnement)
 
-Le modèle hybride réparti le cout entre le lecteur et l'auteur. En pratique, ce modèle s'accompagne en général d'une augmentation totale du prix payé à l'éditeur.
+Le modèle hybride réparti le cout entre le lecteur et l'auteur. En pratique, ce modèle s'accompagne en général d'une augmentation totale du prix payé à l'éditeur. Ces revues ont la fois des articles en Open Access (avec APC) et des articles qui ne le sont pas, et qui nécessitent donc toujours le paiement d'un abonnement par les institutions.
 
 * Modèle Freemium (Services supplémentaires payants)
 
@@ -126,15 +126,17 @@ Le problème est que dans un “bouquet” de revue acheté par les universités
 
 ## Green Open Access
 
-Le Green Open Access, c’est le dépôt d’un article dans une archive ouverte, par le chercheur.
+Le Green Open Access, c’est le dépôt d’un article dans une archive ouverte, par le chercheur. Les archives ouvertes sont des bases de données numériques d'articles, de résultats et de données scientifiques ouvertes à tous.
 
 ### Les archives ouvertes
 
 Dans une archive ouverte, les chercheurs doivent déposer manuellement leur _postprint_ (ou article corrigé). Pour des raisons de copyright, il est impossible de déposer la version éditeur.
 
-Selon les éditeurs, il peut exister une "période d’embargo" de 6 à 12 mois, pendant laquelle il est interdit de déposer le manuscrit sur archive ouverte.
+Selon les éditeurs, il peut exister une "période d’embargo" allant jusqu'à 48 mois, pendant laquelle il est interdit de déposer le manuscrit sur archive ouverte.
 
-En France, [La Loi pour une République Numérique](https://www.economie.gouv.fr/republique-numerique) stipule qu'après 6 à 12 mois, quel que soient les conditions du contract avec l'éditeur, il est possible de publier dans une archive ouverte.
+Cependant, depuis 2016 en France, [La Loi pour une République Numérique](https://www.economie.gouv.fr/republique-numerique) stipule qu'après 6 mois en SHS (Sciences Humaines et Sociales) et 12 mois en STM (Science Technique Médical), quel que soient les conditions du contract avec l'éditeur, il est tout de même possible de publier dans une archive ouverte.
+
+Dans tous les cas, en France, c'est bien la Loi Numérique qui supplante les contrats.
 
 ### HAL, l'archive ouverte Française
 
@@ -148,7 +150,7 @@ L'intéret d'archives comme HAL est évident, comme illustré sur le schéma sui
 
 Le processus est court-circuité, permettant à tous d'accéder aux résultats de recherche et donnant plus de visibilité aux chercheurs.
 
-Une des craintes récurrente avec ce type d'archive est que la qualité des documents soit diminuée. Heureusement, ce n'est pas le cas. Sur HAL tout comme pour tous les journaux, les documents sont soumis à un peer-review et rejetés si besoin.
+Sur HAL, on peut trouver des articles publiés dans des revues (qui ont suivi le processus de peer-review) ainsi que des documents non publiés (donc sans peer-review). Il est bien entendu possible de savoir si un document a été publié ou non.
 
 ### Comment déposer dans HAL ?
 
@@ -156,7 +158,9 @@ Voici un slideshare qui explique en détails le dépot dans HAL
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/HAgET0A3BlqtdE" width="640" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/OAccsd/dposer-dans-hal-mode-demploi" title="Déposer dans HAL mode d&#x27;emploi" target="_blank">Déposer dans HAL mode d&#x27;emploi</a> </strong> de <strong><a href="//www.slideshare.net/OAccsd" target="_blank">OAccsd</a></strong></div>
 
-Comme le montre ces slides, le dépot dans HAL est tout de même relativement compliqué et fastidieux. Récement, le dépot sur HAL a été simplifié : à l'aide de la plateforme [Dissem.in](https://dissem.in/), il suffit de rechercher son nom sur la barre de recherche et Dissemin détecte quelles publications sont autorisés à être déposés sur HAL et propose de le faire _automatiquement_, simplement en cliquant sur un bouton.
+Comme le montre ces slides, le dépot dans HAL est tout de même relativement compliqué. Récement, suite à de nombreuses demandes, le dépot sur HAL a été simplifié. 
+
+Aujourd'hui, il existe également la plateforme [Dissem.in](https://dissem.in/) qui simplifie encore plus le dépot : il suffit de rechercher son nom sur la barre de recherche et Dissemin détecte quelles publications sont autorisés à être déposés sur HAL et propose de le faire _automatiquement_, simplement en cliquant sur un bouton.
 
 Dissemin se base sur l'outil [Sherpa Romeo](http://www.sherpa.ac.uk/romeo/index.php) qui recense les politiques de copyright des éditeurs et permet facilement de les comprendre.
 
@@ -190,12 +194,16 @@ _Alexandra Elbakyan Apneet Jolly/flickr/CC BY 2.0_
 
 **La Loi pour une république numérique (octobre 2016)**
 
-Tout article publié, quelles que soient les conditions fixés par l’éditeur, pourra voir sa version postprint publié dans une archive ouverte, 6 à 12 mois après la signature du contrat d'édition.
+Tout article publié, quelles que soient les conditions fixés par l’éditeur, pourra voir sa version postprint publié dans une archive ouverte, 6 à 12 mois après la signature du contrat d'édition, à condition que l'étude soit financée au moins à moitié sur fonds publics.
 
 **Le consortium Couperin**
 
 Association à but non lucratif représentant de nombreux établissements universitaires français.
 Négocie les prix des ressources documentaires avec les éditeurs.
+
+**Open Edition**
+
+[OpenEdition](https://www.openedition.org/) est un portail de ressources électroniques en sciences humaines et sociales, qui propose une offre freemium destinée aux institutions.
 
 ## L'Open Science
 
@@ -224,16 +232,16 @@ Jean-Pierre C.
 
 ## Bibliographie
 
-Etat de l'Enseignement supérieur et de la Recherche en France n°10 (avril 2017), ESR
+[Etat de l'Enseignement supérieur et de la Recherche en France n°10, ESR (Avril 2017)](http://www.enseignementsup-recherche.gouv.fr/cid115635/l-etat-de-l-enseignement-superieur-et-de-la-recherche-en-france-n-10-avril-2017.html)
 
-Is the staggeringly profitable business of scientific publishing bad for science?
+[Is the staggeringly profitable business of scientific publishing bad for science?, Stephen Buranyi (Juin 2017)](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
-Financer la publication scientifique, DIST (CNRS)
+[Financer la publication scientifique, DIST, CNRS (2014)](http://www.cnrs.fr/dist/z-outils/documents/Distinfo2/DISTetude3.pdf)
 
-Journée Science Ouverte du Couperin
+[Journée Science Ouverte du Couperin](https://webcast.in2p3.fr/container/journees-science-ouverte-couperin-2018)
 
-Privé de Savoir ? #DATAGEULE
+[Privé de Savoir ?, #DATAGEULE (Oct 2016)](https://www.youtube.com/watch?v=WnxqoP-c0ZE)
 
-All Scientific Papers Should Be Free; Here's Why They're Not
+[All Scientific Papers Should Be Free; Here's Why They're Not, Seeker (Jan 2017)](https://www.youtube.com/watch?v=69yF7ksLWC0)
 
-Les coulisses des publications scientifiques - “La tête au carré“, Franceinter (Jan 2018)
+[Les coulisses des publications scientifiques - “La tête au carré“, Franceinter (Jan 2018)](https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-29-janvier-2018)
