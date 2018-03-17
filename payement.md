@@ -1,10 +1,10 @@
 # Cet article est sous copyright
 
-Vous devez être abonné pour accéder à cet article. Vous pouvez vous connecter ci-dessous ou acheter un accès unique pour cet article.
+Vous devez être abonné pour accéder à cet article. Vous pouvez vous connecter ci-dessous ou acheter un accès premium pour cet article.
 
 ### Accès abonnés
 
-Vérifiez si vous avez accès grâce à vos identifiants de votre institution.
+Vérifiez si vous avez accès grâce à vos identifiants institutionnel.
 
 <button style="padding: 15px 32px; font-size: 16px; color: white; background-color: #4CAF50; cursor: pointer" onclick="window.location.href='no-access.html'">Vérifier l'accès</button>
 
