@@ -12,7 +12,7 @@ La publication scientifique est aujourd'hui une vraie question d'actualité qui 
 - [Transition vers l'Open Access](#transition-vers-l-open-access)
 - [Gold Open Access](#gold-open-access)
 - [Green Open Access](#green-open-access)
-- [Les Réseaux Académiques](#les-reseaux-academiques)
+- [Les Reseaux Académiques](#les-reseaux-academiques)
 - [Dark Open Access](#dark-open-access)
 - [Quelques initiatives en France](#quelques-initiatives-en-france)
 - [L'Open Science](#open-science)
