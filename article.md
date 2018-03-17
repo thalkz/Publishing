@@ -8,14 +8,14 @@ La publication scientifique est aujourd'hui une vraie question d'actualité qui 
 
 - [Quelques chiffres](#quelques-chiffres)
 - [Processus de publication](#processus-de-publication)
-- [Les éditeurs scientifiques](#les-editeurs-scientifiques)
-- [Transition vers l'Open Access](#transition-vers-l-open-access)
+- [Les éditeurs scientifiques](#les-éditeurs-scientifiques)
+- [Transition vers l'Open Access](#transition-vers-lopen-access)
 - [Gold Open Access](#gold-open-access)
 - [Green Open Access](#green-open-access)
-- [Les Reseaux Académiques](#les-reseaux-academiques)
+- [Les Reseaux Académiques](#les-réseaux-académiques)
 - [Dark Open Access](#dark-open-access)
 - [Quelques initiatives en France](#quelques-initiatives-en-france)
-- [L'Open Science](#open-science)
+- [L'Open Science](#lopen-science)
 - [Remerciements](#remerciements)
 - [Bibliographie](#bibliographie)
 
@@ -64,7 +64,7 @@ Le processus de publication scientifique est résumé sur le schéma suivant :
 
 Ce système fonctionne, mais est extrèmement défavorable aux chercheurs. Les éditeurs scientifiques, sans apporter d'autre valeur que "le prestige" de leurs revues, récoltent tous les bénéfices.
 
-## [Les éditeurs scientifiques](#les-editeurs-scientifiques)
+## [Les éditeurs scientifiques](#les-éditeurs-scientifiques)
 
 Grace à ce système bien en place, les éditeurs scientifiques tel que Elsevier, Springer et Wiley font des bénéfices considérables.
 Elsevier a déclaré en 2010 un chiffre d'affaires de **2,7 milliards d'euros**, avec près de 38% de marge. Cette marge, déjà supérieure à celle des géants tels que Facebook, Google et Amazon, a continué d'augmenté depuis.
@@ -87,7 +87,7 @@ Un article de The Guardian intitulé _Is the staggeringly profitable business of
 
 [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
-## [Transition vers l'Open Access](#transition-vers-l-open-access)
+## [Transition vers l'Open Access](#transition-vers-lopen-access)
 
 > “There is a moral imperative to reconsider how scientific data are judged and disseminated”
 
@@ -185,8 +185,7 @@ Il existe une extention Chrome, [Unpaywall](http://unpaywall.org/) qui cherche a
 
 Unpaywall est proposé gratuitement par une association à but non lucratif qui s'appelle [Impactstory](http://impactstory.org/) qui cherche à rendre la recherche plus ouverte.
 
-[](#les-reseaux-academiques)
-## Les Réseaux Académiques
+## [Les Réseaux Académiques](#les-réseaux-académiques)
 
 Récemment, des entreprises commerciales ont vu le jour pour proposer des services complémentaires pour les chercheurs.
 
@@ -221,7 +220,7 @@ Négocie les prix des ressources documentaires avec les éditeurs.
 
 [OpenEdition](https://www.openedition.org/) est un portail de ressources électroniques en sciences humaines et sociales, qui propose une offre freemium destinée aux institutions.
 
-## [L'Open Science](#open-science)
+## [L'Open Science](#lopen-science)
 
 Les questions d'Open Access s'inscrivent dans un mouvement plus grand, celui de l'Open Science. Ce mouvement vise à garantir une science plus transparante, en remettant en cause non seulement la publication, mais aussi les peer-review, la reproductibilité des expériences, la pression sur les chercheurs, etc.
 
